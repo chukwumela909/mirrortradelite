@@ -63,7 +63,7 @@ export default function Navbar() {
           } `}
       >
         <div className="logo-area">
-          <img src="/assets/mtl_dark_logo.png" alt="Mirror Trade Lite Logo" className="h-20 w-auto" />
+          <img src="/assets/mtl_dark_logo.png" alt="Mirror Trade Lite Logo" className="h-16 w-64" />
         </div>{" "}
         <div className="Navigation-Items">
           <div className="itemcontainer lg:flex hidden text-black text-sm">

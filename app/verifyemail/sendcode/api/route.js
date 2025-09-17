@@ -35,8 +35,8 @@ async function sendVerificationEmail(email, code) {
     // Transport configuration
     service: "gmail",
     auth: {
-      user: "osr.cty@gmail.com",
-      pass: "pjod epoe namf uldd",
+      user: "nanotechfirefree@gmail.com",
+      pass: "abtj krtk gxtm jmor",
     },
   });
 
