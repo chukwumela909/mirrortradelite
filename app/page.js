@@ -4,7 +4,7 @@ import SmartSupp from "../components/Smartsupp";
 export default function HomePage() {
   return (
     <>
-      <SmartSupp />
+      {/* <SmartSupp /> */}
       <Home />
     </>
   );
