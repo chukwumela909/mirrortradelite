@@ -41,7 +41,7 @@ async function sendVerificationEmail(email, code) {
   });
 
   await transporter.sendMail({
-    from: "Coin Masters <support@coinmastersx.com>",
+    from: "Mirrortradelite <support@mirrortradelite.com>",
     to: email,
     subject: "Email Verification",
     text: `Your verification code is: ${code}`,

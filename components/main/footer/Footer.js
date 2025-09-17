@@ -15,7 +15,7 @@ export default function Footer() {
 
             </section>
             <section className="broker-writeup text-sm text-white/60  ">
-              Coin Masters is a financial investment company established by a
+              Mirrortradelite is a financial investment company established by a
               group of professional traders and investors, who have fore seen
               the future of International Capital Market. The company has direct
               contracts with professional traders and miners around the world
@@ -166,7 +166,7 @@ export default function Footer() {
                     E-mail Contact
                   </div>
                   <div className="phone text-gray-400 my-1 text-sm">
-                    support@coinmastersx.com
+                    support@mirrortradelite.com
                   </div>
                 </div>
               </section>
@@ -210,7 +210,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer-message py-4 flex justify-center text-white/60 bg-[#0a0a0a] text-xs md:text-base">
-        © 2025 coinmastersx.com All Rights Reserved.
+        © 2025 mirrortradelite.com All Rights Reserved.
       </div>
     </>
   );

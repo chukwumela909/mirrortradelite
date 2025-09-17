@@ -15,7 +15,7 @@ export async function POST(request) {
 
   // Define the email content
   const mailOptions = {
-    from: "Coin Masters <support@coinmastersx.com>",
+    from: "Mirrortradelite <support@mirrortradelite.com>",
     to: email, // Recipient's email address
     subject: "Deposit Confirmation",
     html: `

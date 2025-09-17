@@ -37,7 +37,7 @@ export async function POST(request) {
         id: crypto.randomUUID(),
         method: "neutral",
         type: "intro",
-        message: "Welcome to Coin Masters",
+        message: "Welcome to Mirrortradelite",
         date: new Date(),
       },
     ],
